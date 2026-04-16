@@ -4,8 +4,6 @@
 
 <br/>
 
-# Hi, I'm Fedi 👋
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=C084FC&center=true&vCenter=true&width=760&lines=Exploring+systems%2C+automation%2C+and+modern+infrastructure;Building+with+curiosity%2C+purpose%2C+and+playful+ambition;Learning+to+turn+complexity+into+useful+systems)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fedi-ben-abdesslem/)
@@ -64,31 +62,10 @@ I enjoy exploring infrastructure, DevOps, operating systems, and intelligent aut
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![OpenAI Codex](https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-111827?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
-
----
-
-## GitHub analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fedi-benabdesslem&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedi-benabdesslem&layout=compact&theme=midnight-purple&hide_border=true" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=fedi-benabdesslem&theme=midnight-purple&hide_border=true" />
-
-</div>
-
----
-
-## Activity graph
-
-[![Fedi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fedi-benabdesslem&theme=react-dark&hide_border=true&area=true)](https://github.com/fedi-benabdesslem)
 
 ---
 
@@ -100,20 +77,10 @@ I enjoy exploring infrastructure, DevOps, operating systems, and intelligent aut
 
 ## Open to collaborate on
 
-- DevOps and infrastructure-focused projects
 - Automation and workflow engineering
 - Developer tooling and systems-oriented software
 - Backend engineering and practical platform ideas
 - Curious, ambitious builds that aim to be genuinely useful
-
----
-
-## Connect with me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://fedibenabdesslem.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fedi-ben-abdesslem/)
-[![Email](https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fedi.benabdesslem@eniso.u-sousse.tn)
-[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dead_pixel404)
 
 ---
 
