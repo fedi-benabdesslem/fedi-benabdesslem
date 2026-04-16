@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=C084FC&center=true&vCenter=true&width=760&lines=Exploring+systems%2C+automation%2C+and+modern+infrastructure;Building+with+curiosity%2C+purpose%2C+and+playful+ambition;Learning+to+turn+complexity+into+useful+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=C084FC&center=true&vCenter=true&width=760&lines=Building+with+curiosity%2C+purpose%2C+and+playful+ambition;Learning+to+turn+complexity+into+useful+systems)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fedi-ben-abdesslem/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://fedibenabdesslem.me)
@@ -17,17 +17,17 @@
 
 ## About me
 
-I'm a first-year Computer Science Engineering student at the National School of Engineers of Sousse (ENISO), Tunisia. I’m drawn to the side of tech where ideas become systems — the kind that simplify complexity, automate effort, and solve real problems in elegant ways.
+I'm a first-year Computer Science Engineering student at the National School of Engineers of Sousse (ENISO), Tunisia. I’m drawn to the side of tech where ideas become systems, the kind that simplify complexity, automate effort, and solve real problems in elegant ways.
 
-I enjoy exploring infrastructure, DevOps, operating systems, and intelligent automation, while staying curious about how modern tools can reshape the way people build, work, and create.
+What excites me most is the process of turning curiosity into creation: learning deeply, building thoughtfully, and finding better ways to make things more useful, more intuitive, and more meaningful.
 
 ---
 
 ## Current focus
 
-- Designing automation workflows for repetitive and high-friction tasks, especially around resilient browser-based automation
-- Exploring agentic tools, custom skill extensions, and MCP-powered integrations for modern AI-assisted workflows
-- Learning how software systems, infrastructure, and embedded environments can communicate more effectively
+- Designing automation workflows for repetitive and high-friction tasks, with a focus on headless browser workflows and robust interaction handling.
+- Exploring agentic AI tooling by extending capabilities through custom skills, integrations, and MCP-based workflows to support modern AI-assisted work infrastructure.
+- Prototyping communication and monitoring layers between software platforms and embedded automotive systems.
 - Growing deeper in cloud, DevOps culture, and scalable engineering practices
 
 ---
