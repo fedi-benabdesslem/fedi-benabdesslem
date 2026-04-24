@@ -17,9 +17,11 @@
 
 ## About me
 
-I'm a first-year Computer Science Engineering student at the National School of Engineers of Sousse (ENISO), Tunisia. I’m drawn to the side of tech where ideas become systems, the kind that simplify complexity, automate effort, and solve real problems in elegant ways.
+I like building systems that work by design, not by accident.
 
-What excites me most is the process of turning curiosity into creation: learning deeply, building thoughtfully, and finding better ways to make things more useful, more intuitive, and more meaningful.
+My approach to engineering leans toward predictable systems, explainable logic, and carefully designed algorithms that reduce failure instead of hiding uncertainty behind black boxes. I’m interested in building things that are practical, reliable, and resilient enough to handle the messy edge cases real systems face.
+
+For me, the best technology is not the loudest or trendiest — it is the one that quietly works, lasts, and solves the problem well.
 
 ---
 
