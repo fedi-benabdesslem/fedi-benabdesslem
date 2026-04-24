@@ -21,7 +21,7 @@ I like building systems that work by design, not by accident.
 
 My approach to engineering leans toward predictable systems, explainable logic, and carefully designed algorithms that reduce failure instead of hiding uncertainty behind black boxes. I’m interested in building things that are practical, reliable, and resilient enough to handle the messy edge cases real systems face.
 
-For me, the best technology is not the loudest or trendiest — it is the one that quietly works, lasts, and solves the problem well.
+For me, the best technology is not the loudest or trendiest, it is the one that quietly works, lasts, and solves the problem well.
 
 ---
 
